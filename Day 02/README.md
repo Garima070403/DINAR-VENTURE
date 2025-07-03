@@ -1,5 +1,3 @@
-Day 2 - Variables and Data Types
-
 Name: Garima Raj  
 ID: DV06PY00010  
 Domain: Python Programming 
